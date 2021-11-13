@@ -1,0 +1,23 @@
+.lead {
+    max-width: 984px;
+    margin: 0 auto;
+    padding-top: 56px;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead {
+        max-width: 928px;
+        padding-top: 48px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .lead {
+        max-width: 768px;  
+    }
+}
+
+@media screen and (max-width: 1024) {
+    .lead {
+        max-width: 320px;
+    }
+}

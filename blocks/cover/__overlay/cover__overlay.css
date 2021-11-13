@@ -1,0 +1,10 @@
+.cover__overlay {
+    text-decoration: none;
+    text-align: center;
+}
+
+@media screen and (max-width: 420px) {
+    .cover__overlay {
+        max-width: 320px;
+    }
+}

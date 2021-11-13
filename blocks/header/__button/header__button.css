@@ -1,0 +1,16 @@
+.header__button {
+    display: flex;
+    gap: 18px;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+@media screen and (max-width: 420px) {
+    .header__button {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
