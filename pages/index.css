@@ -30,8 +30,8 @@
 @import "../blocks/place/__image/place__image.css";
 @import "../blocks/place/__right-block/place__right-block.css";
 @import "../blocks/place/__website/place__website.css";
-@import "../blocks/place/__website/place__website_position_left.css";
-@import "../blocks/place/__website/place__website_position_right.css";
+@import "../blocks/place/__website/_position/place__website_position_left.css";
+@import "../blocks/place/__website/_position/place__website_position_right.css";
 @import "../blocks/place/__url-heading/place__url-heading.css";
 @import "../blocks/place/__link/place__link.css";
 @import "../blocks/place/__paragraph/place__paragraph.css";
