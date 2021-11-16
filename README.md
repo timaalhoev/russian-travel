@@ -3,11 +3,14 @@
 ### Используются Технологии: 
 * HTML
 * CSS
+### Ссылка на проэкт
+
+* [Ссылка на GitHub Pages](https://timaalhoev.github.io/russian-travel/index.html)
+
 ### Обзор
 * Интро
 * Figma
 * Картинки
-
 **Интро**
 
 Здесь будет проект о путешествии по России.
