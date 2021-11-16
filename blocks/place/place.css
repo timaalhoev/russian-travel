@@ -1,15 +1,14 @@
 .place {
     max-width: 984px;
-    display: flex;
-    align-items: center;
-    gap: 40px;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: auto;
     padding-top: 80px;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1024px) {
     .place {
         padding-top: 73px;
-        gap: 28px;
     }
 }
 

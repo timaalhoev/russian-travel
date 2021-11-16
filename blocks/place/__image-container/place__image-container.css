@@ -1,0 +1,10 @@
+.place__image-container {
+    padding-top: 48px;
+    padding-right: 40px;
+}
+
+@media screen and (max-width: 420px) {
+    .place__image-container{
+        padding-top: 32px;
+    }
+}

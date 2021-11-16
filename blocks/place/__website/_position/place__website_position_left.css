@@ -1,9 +1,0 @@
-.place__website_position_left {
-    display: none;
-}
-
-@media screen and (max-width: 420px) {
-    .place__website_position_left {
-        display: block;
-    }
-}

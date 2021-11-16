@@ -4,6 +4,7 @@
     font-weight: 900;
     color: #FFFFFF;
     margin: 0;
+    padding-right: 40px;
 }
 
 @media screen and (max-width: 900px) {

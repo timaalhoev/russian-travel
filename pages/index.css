@@ -7,6 +7,7 @@
 @import "../blocks/header/__logo/header__logo.css";
 @import "../blocks/header/__button/header__button.css";
 @import "../blocks/header/__lang-link/header__lang-link.css";
+@import "../blocks/header/__lang-link/_active/header__lang-link_active.css";
 /* header */
 @import "../blocks/lead/lead.css";
 @import "../blocks/lead/__title/lead__title.css";
@@ -19,20 +20,19 @@
 @import "../blocks/intro/__text/intro__text.css";
 @import "../blocks/intro/__list/intro__list.css";
 @import "../blocks/intro/__list-item/intro__list-item.css";
+@import "../blocks/intro/__span-accent/intro__span-accent.css";
 /* intro */
 @import "../blocks/photo-grid/photo-grid.css";
 @import "../blocks/photo-grid/__item/photo-grid__item.css";
 /* photo-grid */
 @import "../blocks/places/places.css";
 @import "../blocks/place/place.css";
-@import "../blocks/place/__left-block/place__left-block.css";
 @import "../blocks/place/__title/place__title.css";
 @import "../blocks/place/__image/place__image.css";
-@import "../blocks/place/__right-block/place__right-block.css";
+@import "../blocks/place/__image-container/place__image-container.css";
 @import "../blocks/place/__website/place__website.css";
-@import "../blocks/place/__website/_position/place__website_position_left.css";
-@import "../blocks/place/__website/_position/place__website_position_right.css";
 @import "../blocks/place/__url-heading/place__url-heading.css";
+@import "../blocks/place/__description/place__description.css";
 @import "../blocks/place/__link/place__link.css";
 @import "../blocks/place/__paragraph/place__paragraph.css";
 /* places */

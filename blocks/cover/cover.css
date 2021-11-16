@@ -24,16 +24,16 @@
     top: 0;
     bottom: 0;
     transition: 0.3s;
+    background: #2A2C2F;
+    opacity: 0.3;
 }
 
 .cover:hover::before {
-    background-color: #2A2C2F;
     opacity: 0.8;
 }
 
-@media screen and (max-width: 1024) {
+@media screen and (max-width: 1024px) {
     .cover {
-        max-width: 1024px;
         min-height: 640px;
     }
 }

@@ -4,18 +4,18 @@
   font-weight: 400;
   color: #FFFFFF;
   margin: 0;
-  padding-top: 22px;
+  padding-bottom: 22px;
 }
 
 @media screen and (max-width: 1024px) {
   .place__paragraph {
-    padding-top: 27px; 
+    padding-bottom: 27px; 
   }
 }
 
 @media screen and (max-width: 768px) {
   .place__paragraph {
-    padding-top: 25px;
+    padding-bottom: 25px;
     font-size: 16px;
     line-height: 26.08px;
   }
