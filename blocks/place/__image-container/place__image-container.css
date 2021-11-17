@@ -3,6 +3,18 @@
     padding-right: 40px;
 }
 
+@media screen and (max-width: 1024px) {
+    .place__image-container{
+        padding-right: 32px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__image-container{
+        padding-right: 28px;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .place__image-container{
         padding-top: 32px;
